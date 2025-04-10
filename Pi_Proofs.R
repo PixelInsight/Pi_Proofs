@@ -23,9 +23,6 @@ monte_proof <- function(n) {
   set.seed(round(as.numeric(Sys.time())))
   pts <- matrix(runif(2*n), ncol=2)
   
-  pts_square <- n
-  
-  
   # Distance between coordinates from origin
   origin_dist <- pts[,1]^2 + pts[,2]^2 
   

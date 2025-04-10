@@ -1,8 +1,6 @@
 # Pi_Proofs.R -------------------------------------------------------
 #' Purpose of script:
 #'
-## Author: Benjamin Elliot
-##
 ## Date Created: 2025-04-03
 ##
 ## ## Email: PixelInsight@ProtonMail.com

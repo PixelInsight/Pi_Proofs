@@ -18,5 +18,5 @@ Approximates π using inscribed polygons, following Archimedes' classical approa
 
 ## Requirements
 
-- R programming language
-- Base R packages (no additional dependencies)
+- Any programming language
+- Base language (no additional dependencies)
